@@ -3,6 +3,10 @@ flip your div when scrolling
 
 #How to use:
 
+```h3
+First add the hmzlayer.js to your project
+```
+
 //add z-layer-container class to the wrapper div
 //add z-layer-obj to allow flipping the div 
 
